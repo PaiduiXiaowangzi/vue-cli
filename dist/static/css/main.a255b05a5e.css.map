@@ -1,0 +1,1 @@
+{"version":3,"file":"static/css/main.a255b05a5e.css","mappings":"AASA,YACI,aAAc,CACd,cACJ,CCOA,OACI,UACJ","sources":["webpack://vue-cli/./src/views/Home.vue","webpack://vue-cli/./src/App.vue"],"sourcesContent":["\r\n.home-title{\r\n    color:deeppink;\r\n    font-size: 30px;\r\n}\r\n","\r\n.title{\r\n    color:pink\r\n}\r\n"],"names":[],"sourceRoot":""}

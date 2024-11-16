@@ -1,0 +1,1 @@
+{"version":3,"file":"static/css/235.ca8b8e2649.chunk.css","mappings":"AASA,YACI,aAAiB,CACjB,cACJ","sources":["webpack://vue-cli/./src/views/About.vue"],"sourcesContent":["\r\n.home-title{\r\n    color:springgreen;\r\n    font-size: 30px;\r\n}\r\n"],"names":[],"sourceRoot":""}
